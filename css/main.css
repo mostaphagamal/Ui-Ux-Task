@@ -1,0 +1,128 @@
+
+.logo{
+    width: 40px;
+    height: 50px;
+
+}
+.navbar{
+    background-color:  #482317 ;
+    color: #bcb0a1 !important;
+    
+
+}
+
+div .home{
+    background-image: url(../images/1.jpg);
+    width: 100%;
+    height: 600px;
+    background-size: 100% 100%;
+    text-align: center;
+    color: #985836;
+}
+div .home h1{
+    padding-top: 100px;
+
+}
+div .home p{
+    padding-top: 70px;
+}
+.row{
+    margin-top: 100px;
+    
+}
+ .row .pho1{
+position: absolute;
+top: 0px;
+right: 30px;
+width: 50%;
+height: 300px;
+}
+.row .pho2{
+    position: absolute;
+    top: 200px;
+    left:60px;
+    width: 50%;
+    height: 300px;
+    }
+    .row .pho3{
+        position: absolute;
+        top: 430px;
+        right: 30px;
+        width: 50%;
+        height: 300px;
+        }
+        .about span {
+            font-size: 30px;
+            font-weight: 400;
+        }
+        .about p{
+            padding-top: 30px; ;
+        }
+        .icon1{
+            width: 30px;
+            height: 30px;
+        }
+        #myabout{
+            justify-content: space-around;
+        }
+        .services{
+            text-align: center;
+            margin-top: 100px;
+            background-image : url(../images/55.jpg);
+            
+            background-size: 100% 100%;
+            color: #482317;
+        }
+        .services h1{
+            padding-top: 40px;
+        }
+        i{
+            padding-bottom: 25px;
+        }
+        .OurTeam h1{ 
+            text-align: center;
+            padding-top: 100px;
+        }
+        .myteam{
+            height: 150px;
+            display: flex;
+            align-items: center;
+            margin: 0px 0px 30px 0px;
+            color: #362e24;
+            font-weight:500px ;
+        }
+        .team{
+            width: 50%;
+            height: 100%;
+        }
+        .myrow{
+            justify-content: space-between;
+        }
+        .myreview{
+            text-align: center;
+            margin-top: 50px;
+            background-color: #bcb0a1;
+        }
+        .myreview h1{
+            padding-top: 40px;
+            font-family:'Times New Roman', Times, serif;
+        }
+        .rev{
+            text-align: center;
+            color: #482317;
+            border: 1px solid white;
+            border-radius: 20px;
+
+        }
+        .myreview .row{
+            justify-content: space-around;
+        }
+        
+
+
+
+
+
+        
+        
+        
